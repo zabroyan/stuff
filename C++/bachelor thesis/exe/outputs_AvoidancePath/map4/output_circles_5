@@ -1,0 +1,30 @@
+Agent #0: 2 -> 7 | PATH: 
+(arrive 0/0, depart 0.9/270) at node 2
+(arrive 6.9/270, depart 7.8/0) at node 3
+(arrive 13.8/0, depart 13.8/0) at node 7
+
+Agent #1: 1 -> 4 | PATH: 
+(arrive 0/0, depart 1.8/180) at node 1
+(arrive 7.8/180, depart 8.7/270) at node 2
+(arrive 14.7/270, depart 14.7/270) at node 3
+(arrive 15.7/270, depart 15.7/270) at node 4
+
+.....................................................
+
+				RESULT:
+
+path length = 13
+time = 15.6999
+Agent #1: 1 -> 4 | PATH: 
+(arrive 0/0, depart 1.8/180) at node 1
+(arrive 7.8/180, depart 8.7/270) at node 2
+(arrive 14.7/270, depart 14.7/270) at node 3
+(arrive 15.7/270, depart 15.7/270) at node 4
+
+path length = 12
+time = 13.8001
+Agent #0: 2 -> 7 | PATH: 
+(arrive 0/0, depart 0.9/270) at node 2
+(arrive 6.9/270, depart 7.8/0) at node 3
+(arrive 13.8/0, depart 13.8/0) at node 7
+

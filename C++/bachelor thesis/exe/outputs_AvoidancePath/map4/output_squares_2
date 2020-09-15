@@ -1,0 +1,57 @@
+Agent #0: 0 -> 7 | PATH: 
+(arrive 0/180, depart 0.9/270) at node 0
+(arrive 6.9/270, depart 7.8/180) at node 6
+(arrive 11.8/180, depart 11.8/180) at node 7
+
+Agent #1: 1 -> 6 | PATH: 
+(arrive 0/0, depart 0/0) at node 1
+(arrive 2/0, depart 2.9/270) at node 0
+(arrive 5.9/270, depart 5.9/270) at node 6
+
+(2) VERTEX CONFLICT AT AGENT #0 NODE #6
+
+_____________________________________________________
+AGENT# 1 WAITS FOR 2.89981 AT NODE# 1
+__________________________________________________________
+Agent #1: 1 -> 6 | PATH: 
+(arrive 0/0, depart 2.9/0) at node 1
+(arrive 4.9/0, depart 5.8/270) at node 0
+(arrive 8.8/270, depart 8.8/270) at node 6
+
+Agent #0: 0 -> 7 | PATH: 
+(arrive 0/180, depart 0.9/270) at node 0
+(arrive 6.9/270, depart 7.8/180) at node 6
+(arrive 11.8/180, depart 11.8/180) at node 7
+
+DISTANCE CONFLICT AT t8.09981
+AGENT #1 WAITS FOR 1.11535 AT NODE #0
+
+_____________________________________________________
+Agent #0: 0 -> 7 | PATH: 
+(arrive 0/180, depart 0.9/270) at node 0
+(arrive 6.9/270, depart 7.8/180) at node 6
+(arrive 11.8/180, depart 11.8/180) at node 7
+
+Agent #1: 1 -> 6 | PATH: 
+(arrive 0/0, depart 2.9/0) at node 1
+(arrive 4.9/0, depart 6.9/270) at node 0
+(arrive 9.9/270, depart 9.9/270) at node 6
+
+.....................................................
+
+				RESULT:
+
+path length = 10
+time = 11.7998
+Agent #0: 0 -> 7 | PATH: 
+(arrive 0/180, depart 0.9/270) at node 0
+(arrive 6.9/270, depart 7.8/180) at node 6
+(arrive 11.8/180, depart 11.8/180) at node 7
+
+path length = 10
+time = 9.91519
+Agent #1: 1 -> 6 | PATH: 
+(arrive 0/0, depart 2.9/0) at node 1
+(arrive 4.9/0, depart 6.9/270) at node 0
+(arrive 9.9/270, depart 9.9/270) at node 6
+

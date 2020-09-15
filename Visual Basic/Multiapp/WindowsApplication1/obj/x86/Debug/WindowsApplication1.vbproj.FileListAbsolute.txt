@@ -1,0 +1,63 @@
+C:\Users\Яник\Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\Яник\Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\Яник\Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\Яник\Desktop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Яник\Desktop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Яник\Desktop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\Яник\Desktop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Users\Яник\Desktop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Users\Яник\Desktop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\Users\Яник\Desktop\инхуйматика\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Users\Яник\Desktop\инхуйматика\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Users\Яник\Desktop\инхуйматика\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\Users\Яник\Desktop\инхуйматика\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\Яник\Desktop\инхуйматика\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\Яник\Desktop\инхуйматика\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\Яник\Desktop\инхуйматика\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Яник\Desktop\инхуйматика\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Яник\Desktop\инхуйматика\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\student\Desktop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Users\student\Desktop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Users\student\Desktop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\Users\student\Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\student\Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\student\Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\student\Desktop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\student\Desktop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\student\Desktop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\Яник\Desktop\VB\multiapp\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Users\Яник\Desktop\VB\multiapp\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Users\Яник\Desktop\VB\multiapp\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\Users\Яник\Desktop\VB\multiapp\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\Яник\Desktop\VB\multiapp\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\Яник\Desktop\VB\multiapp\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\Яник\Desktop\VB\multiapp\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Яник\Desktop\VB\multiapp\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Яник\Desktop\VB\multiapp\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\student\Desktop\multiapp\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Users\student\Desktop\multiapp\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Users\student\Desktop\multiapp\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\Users\student\Desktop\multiapp\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\student\Desktop\multiapp\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\student\Desktop\multiapp\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\student\Desktop\multiapp\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\student\Desktop\multiapp\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\student\Desktop\multiapp\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\Яник\Desktop\multiapp yana\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Users\Яник\Desktop\multiapp yana\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Users\Яник\Desktop\multiapp yana\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\Users\Яник\Desktop\multiapp yana\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\Яник\Desktop\multiapp yana\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\Яник\Desktop\multiapp yana\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\Яник\Desktop\multiapp yana\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Яник\Desktop\multiapp yana\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Яник\Desktop\multiapp yana\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\Яник\Desktop\VB\multiapp yana\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Users\Яник\Desktop\VB\multiapp yana\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Users\Яник\Desktop\VB\multiapp yana\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\Users\Яник\Desktop\VB\multiapp yana\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\Яник\Desktop\VB\multiapp yana\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\Яник\Desktop\VB\multiapp yana\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\Яник\Desktop\VB\multiapp yana\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Яник\Desktop\VB\multiapp yana\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Яник\Desktop\VB\multiapp yana\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache

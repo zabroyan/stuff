@@ -1,0 +1,45 @@
+Agent #0: 5 -> 2 | PATH: 
+(arrive 0/270, depart 0/270) at node 5
+(arrive 4/270, depart 4/270) at node 4
+(arrive 7/270, depart 7.9/0) at node 3
+(arrive 12.9/0, depart 12.9/0) at node 2
+
+Agent #1: 3 -> 8 | PATH: 
+(arrive 0/0, depart 0.9/90) at node 3
+(arrive 1.9/90, depart 2.8/0) at node 4
+(arrive 4.5/0, depart 4.5/0) at node 8
+
+DISTANCE CONFLICT AT t2.7
+AGENT #0 WAITS FOR 0.55516 AT NODE #5
+
+_____________________________________________________
+Agent #1: 3 -> 8 | PATH: 
+(arrive 0/0, depart 0.9/90) at node 3
+(arrive 1.9/90, depart 2.8/0) at node 4
+(arrive 4.5/0, depart 4.5/0) at node 8
+
+Agent #0: 5 -> 2 | PATH: 
+(arrive 0/270, depart 0.6/270) at node 5
+(arrive 4.6/270, depart 4.6/270) at node 4
+(arrive 7.6/270, depart 8.5/0) at node 3
+(arrive 13.5/0, depart 13.5/0) at node 2
+
+.....................................................
+
+				RESULT:
+
+path length = 8
+time = 4.46672
+Agent #1: 3 -> 8 | PATH: 
+(arrive 0/0, depart 0.9/90) at node 3
+(arrive 1.9/90, depart 2.8/0) at node 4
+(arrive 4.5/0, depart 4.5/0) at node 8
+
+path length = 12
+time = 13.4552
+Agent #0: 5 -> 2 | PATH: 
+(arrive 0/270, depart 0.6/270) at node 5
+(arrive 4.6/270, depart 4.6/270) at node 4
+(arrive 7.6/270, depart 8.5/0) at node 3
+(arrive 13.5/0, depart 13.5/0) at node 2
+

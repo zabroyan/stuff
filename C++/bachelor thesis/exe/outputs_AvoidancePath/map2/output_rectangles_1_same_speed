@@ -1,0 +1,60 @@
+Agent #0: 0 -> 6 | PATH: 
+(arrive 0/180, depart 0/180) at node 0
+(arrive 3/180, depart 3.9/90) at node 1
+(arrive 9.9/90, depart 9.9/90) at node 2
+(arrive 15.9/90, depart 16.8/0) at node 4
+(arrive 22.8/0, depart 23.7/270) at node 5
+(arrive 32.7/270, depart 32.7/270) at node 6
+
+Agent #1: 1 -> 7 | PATH: 
+(arrive 0/0, depart 0.9/90) at node 1
+(arrive 6.9/90, depart 6.9/90) at node 2
+(arrive 12.9/90, depart 13.8/0) at node 4
+(arrive 19.8/0, depart 20.7/270) at node 5
+(arrive 29.7/270, depart 30.6/180) at node 6
+(arrive 33.6/180, depart 33.6/180) at node 7
+
+DISTANCE CONFLICT AT t1.7
+AGENT #0 WAITS FOR 0.566096 AT NODE #0
+
+_____________________________________________________
+Agent #1: 1 -> 7 | PATH: 
+(arrive 0/0, depart 0.9/90) at node 1
+(arrive 6.9/90, depart 6.9/90) at node 2
+(arrive 12.9/90, depart 13.8/0) at node 4
+(arrive 19.8/0, depart 20.7/270) at node 5
+(arrive 29.7/270, depart 30.6/180) at node 6
+(arrive 33.6/180, depart 33.6/180) at node 7
+
+Agent #0: 0 -> 6 | PATH: 
+(arrive 0/180, depart 0.6/180) at node 0
+(arrive 3.6/180, depart 4.5/90) at node 1
+(arrive 10.5/90, depart 10.5/90) at node 2
+(arrive 16.5/90, depart 17.4/0) at node 4
+(arrive 23.4/0, depart 24.3/270) at node 5
+(arrive 33.3/270, depart 33.3/270) at node 6
+
+.....................................................
+
+				RESULT:
+
+path length = 30
+time = 33.2662
+Agent #0: 0 -> 6 | PATH: 
+(arrive 0/180, depart 0.6/180) at node 0
+(arrive 3.6/180, depart 4.5/90) at node 1
+(arrive 10.5/90, depart 10.5/90) at node 2
+(arrive 16.5/90, depart 17.4/0) at node 4
+(arrive 23.4/0, depart 24.3/270) at node 5
+(arrive 33.3/270, depart 33.3/270) at node 6
+
+path length = 30
+time = 33.6
+Agent #1: 1 -> 7 | PATH: 
+(arrive 0/0, depart 0.9/90) at node 1
+(arrive 6.9/90, depart 6.9/90) at node 2
+(arrive 12.9/90, depart 13.8/0) at node 4
+(arrive 19.8/0, depart 20.7/270) at node 5
+(arrive 29.7/270, depart 30.6/180) at node 6
+(arrive 33.6/180, depart 33.6/180) at node 7
+

@@ -1,0 +1,22 @@
+Grafický editor
+
+Výstupem semestrální práce bude CLI aplikace, která dokáže načíst vstupní 
+obrázek, na něm provádět vybrané základní grafické operace a výstup uložit.
+Požadované operace
+
+    převrácení obrazu směrem doprava o 90°; --rotate
+    zrcadlení; --mirror
+    inverzní obraz (negativ); --inverse
+    převod do odstínů šedi; --bw
+    zesvětlení; --lighten <percentage: 0-100>
+    ztmavení; --darken <percentage: 0-100>
+    zvýraznění hran (tzv. “unsharp mask”); --sharpen
+
+Operace je možné libovolně kombinovat použitím >1 přepínače (viz Příklad příkazu).
+
+Způsob spuštění/použití aplikace:
+
+python3 Image.py --rotate --bw --lighten 25 INPUT_IMAGE_PATH OUTPUT_IMAGE_PATH
+
+INPUT_IMAGE_PATH je im.jpg
+OUTPUT_IMAGE_PATH musí být formatu .png, .jpg nebo .jpeg

@@ -1,0 +1,11 @@
+.....................................................
+
+				RESULT:
+
+A: NO PATH
+path length = 3
+time = 3.90003
+Agent #1: 1 -> 2 | PATH: 
+(arrive 0/0, depart 0.9/90) at node 1
+(arrive 3.9/90, depart 3.9/90) at node 2
+

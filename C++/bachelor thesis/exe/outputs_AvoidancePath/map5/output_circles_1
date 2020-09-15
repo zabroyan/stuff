@@ -1,0 +1,50 @@
+Agent #0: 0 -> 1 | PATH: 
+(arrive 0/135, depart 0/135) at node 0
+(arrive 4.2/135, depart 4.2/135) at node 1
+
+Agent #1: 1 -> 0 | PATH: 
+(arrive 0/315, depart 0/315) at node 1
+(arrive 2.1/315, depart 2.1/315) at node 0
+
+(2) EDGE CONFLICT BETWEEN AGENT #0 NODE #0 --- NODE #1
+
+_____________________________________________________
+Agent #0: 0 -> 1 | PATH: 
+(arrive 0/135, depart 0.9/225) at node 0
+(arrive 5.1/225, depart 6.5/90) at node 2
+(arrive 12.5/90, depart 12.5/90) at node 1
+
+Agent #1: 1 -> 0 | PATH: 
+(arrive 0/315, depart 0/315) at node 1
+(arrive 2.1/315, depart 2.1/315) at node 0
+
+DISTANCE CONFLICT AT t1.2
+AGENT #1 WAITS FOR 1.0769 AT NODE #1
+
+_____________________________________________________
+Agent #0: 0 -> 1 | PATH: 
+(arrive 0/135, depart 0.9/225) at node 0
+(arrive 5.1/225, depart 6.5/90) at node 2
+(arrive 12.5/90, depart 12.5/90) at node 1
+
+Agent #1: 1 -> 0 | PATH: 
+(arrive 0/315, depart 1.1/315) at node 1
+(arrive 3.2/315, depart 3.2/315) at node 0
+
+.....................................................
+
+				RESULT:
+
+path length = 10.2426
+time = 12.4925
+Agent #0: 0 -> 1 | PATH: 
+(arrive 0/135, depart 0.9/225) at node 0
+(arrive 5.1/225, depart 6.5/90) at node 2
+(arrive 12.5/90, depart 12.5/90) at node 1
+
+path length = 4.24264
+time = 3.19822
+Agent #1: 1 -> 0 | PATH: 
+(arrive 0/315, depart 1.1/315) at node 1
+(arrive 3.2/315, depart 3.2/315) at node 0
+

@@ -1,0 +1,14 @@
+.....................................................
+
+				RESULT:
+
+path length = 18
+time = 20.6999
+Agent #0: 0 -> 3 | PATH: 
+(arrive 0/180, depart 0.9/270) at node 0
+(arrive 6.9/270, depart 6.9/270) at node 6
+(arrive 7.9/270, depart 8.8/180) at node 5
+(arrive 18.8/180, depart 19.7/90) at node 4
+(arrive 20.7/90, depart 20.7/90) at node 3
+
+B: NO PATH

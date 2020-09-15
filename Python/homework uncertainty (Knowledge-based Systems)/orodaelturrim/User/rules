@@ -1,0 +1,31 @@
+# Write your rules to this file
+# Rules could be on more lines, but must end with semicolon (;)
+# You can use hash tag for comment lines, block comments are not supported
+# Grammar definition is described in documentation
+
+
+IF player_dont_have_base AND free_tile* forest THEN build_base free_tile;
+#IF player_dont_have_base AND random_tile* THEN build_base_random random_tile;
+IF no_knight AND money >= 98 AND free_tile_around_king* THEN spawn_knight_around_king free_tile_around_king;
+IF baseIsNotSurrounded* THEN surround_base baseIsNotSurrounded;
+IF money >= 25 AND tile_close_to_king* THEN spawn_druid tile_close_to_king;
+
+# and -> min
+# or -> max
+IF (spawn_enemy_up 0 > 2 [0.9] OR spawn_enemy_up 1 > 1 [0.5] OR spawn_enemy_up 2 > 0.5 [0.3]) AND (knight_up > 7 [0.1] OR knight_up <= 11) AND tile_up* AND money >= 12 THEN spawn_up KNIGHT tile_up;
+IF (spawn_enemy_down 0 > 2 [0.9] OR spawn_enemy_down 1 > 1 [0.5] OR spawn_enemy_down 2 > 0.5 [0.3]) AND (knight_down > 7 [0.1] OR knight_down <= 11) AND tile_down* AND money >= 12 THEN spawn_down KNIGHT tile_down;
+IF (spawn_enemy_left 0 > 2 [0.9] OR spawn_enemy_left 1 > 1 [0.5] OR spawn_enemy_left 2 > 0.5 [0.3]) AND (knight_left > 7 [0.1] OR knight_left <= 11) AND tile_left* AND money >= 12 THEN spawn_left KNIGHT tile_left;
+IF (spawn_enemy_right 0 > 2 [0.9] OR spawn_enemy_right 1 > 1 [0.5] OR spawn_enemy_right 2 > 0.5 [0.3]) AND (knight_right > 7 [0.1] OR knight_right <= 11) AND tile_right*  AND money >= 12 THEN spawn_right KNIGHT tile_right;
+
+IF (enemy_up MINOTAUR OR enemy_up DEMON) AND tile_up* AND money >= 12 THEN spawn_up KNIGHT tile_up WITH 0.75;
+IF (enemy_down MINOTAUR OR enemy_down DEMON) AND tile_down* AND money >= 12 THEN spawn_down KNIGHT tile_down WITH 0.75;
+IF (enemy_left MINOTAUR OR enemy_left DEMON) AND tile_left* AND money >= 12 THEN spawn_left KNIGHT tile_left WITH 0.75;
+IF (enemy_right MINOTAUR OR enemy_right DEMON) AND tile_right* AND money >= 12 THEN spawn_right KNIGHT tile_right WITH 0.75;
+
+
+
+
+
+
+
+

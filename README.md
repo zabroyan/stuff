@@ -1,1 +1,1 @@
-# stuff
+# Mostly homeworks from uni

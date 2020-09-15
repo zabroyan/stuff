@@ -1,0 +1,63 @@
+C:\Users\Яник\Desktop\VB\1. Rock Scissors Papper\Rock Scissors Papper\bin\Debug\Rock Scissors Papper.exe
+C:\Users\Яник\Desktop\VB\1. Rock Scissors Papper\Rock Scissors Papper\bin\Debug\Rock Scissors Papper.pdb
+C:\Users\Яник\Desktop\VB\1. Rock Scissors Papper\Rock Scissors Papper\bin\Debug\Rock Scissors Papper.xml
+C:\Users\Яник\Desktop\VB\1. Rock Scissors Papper\Rock Scissors Papper\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Яник\Desktop\VB\1. Rock Scissors Papper\Rock Scissors Papper\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Яник\Desktop\VB\1. Rock Scissors Papper\Rock Scissors Papper\obj\x86\Debug\Rock Scissors Papper.vbproj.GenerateResource.Cache
+C:\Users\Яник\Desktop\VB\1. Rock Scissors Papper\Rock Scissors Papper\obj\x86\Debug\Rock Scissors Papper.exe
+C:\Users\Яник\Desktop\VB\1. Rock Scissors Papper\Rock Scissors Papper\obj\x86\Debug\Rock Scissors Papper.xml
+C:\Users\Яник\Desktop\VB\1. Rock Scissors Papper\Rock Scissors Papper\obj\x86\Debug\Rock Scissors Papper.pdb
+C:\Users\student\Desktop\1. Rock Scissors Papper\Rock Scissors Papper\obj\x86\Debug\Rock Scissors Papper.exe
+C:\Users\student\Desktop\1. Rock Scissors Papper\Rock Scissors Papper\obj\x86\Debug\Rock Scissors Papper.xml
+C:\Users\student\Desktop\1. Rock Scissors Papper\Rock Scissors Papper\obj\x86\Debug\Rock Scissors Papper.pdb
+C:\Users\student\Desktop\1. Rock Scissors Papper\Rock Scissors Papper\bin\Debug\Rock Scissors Papper.exe
+C:\Users\student\Desktop\1. Rock Scissors Papper\Rock Scissors Papper\bin\Debug\Rock Scissors Papper.pdb
+C:\Users\student\Desktop\1. Rock Scissors Papper\Rock Scissors Papper\bin\Debug\Rock Scissors Papper.xml
+C:\Users\student\Desktop\1. Rock Scissors Papper\Rock Scissors Papper\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\student\Desktop\1. Rock Scissors Papper\Rock Scissors Papper\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\student\Desktop\1. Rock Scissors Papper\Rock Scissors Papper\obj\x86\Debug\Rock Scissors Papper.vbproj.GenerateResource.Cache
+C:\Users\Яник\Desktop\1. Rock Scissors Papper\Rock Scissors Papper\obj\x86\Debug\Rock Scissors Papper.exe
+C:\Users\Яник\Desktop\1. Rock Scissors Papper\Rock Scissors Papper\obj\x86\Debug\Rock Scissors Papper.xml
+C:\Users\Яник\Desktop\1. Rock Scissors Papper\Rock Scissors Papper\obj\x86\Debug\Rock Scissors Papper.pdb
+C:\Users\Яник\Desktop\1. Rock Scissors Papper\Rock Scissors Papper\bin\Debug\Rock Scissors Papper.exe
+C:\Users\Яник\Desktop\1. Rock Scissors Papper\Rock Scissors Papper\bin\Debug\Rock Scissors Papper.pdb
+C:\Users\Яник\Desktop\1. Rock Scissors Papper\Rock Scissors Papper\bin\Debug\Rock Scissors Papper.xml
+C:\Users\Яник\Desktop\1. Rock Scissors Papper\Rock Scissors Papper\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Яник\Desktop\1. Rock Scissors Papper\Rock Scissors Papper\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Яник\Desktop\1. Rock Scissors Papper\Rock Scissors Papper\obj\x86\Debug\Rock Scissors Papper.vbproj.GenerateResource.Cache
+C:\Users\student\Desktop\Rock Scissors Papper3\Rock Scissors Papper\obj\x86\Debug\Rock Scissors Papper.exe
+C:\Users\student\Desktop\Rock Scissors Papper3\Rock Scissors Papper\obj\x86\Debug\Rock Scissors Papper.xml
+C:\Users\student\Desktop\Rock Scissors Papper3\Rock Scissors Papper\obj\x86\Debug\Rock Scissors Papper.pdb
+C:\Users\student\Desktop\Rock Scissors Papper3\Rock Scissors Papper\bin\Debug\Rock Scissors Papper.exe
+C:\Users\student\Desktop\Rock Scissors Papper3\Rock Scissors Papper\bin\Debug\Rock Scissors Papper.pdb
+C:\Users\student\Desktop\Rock Scissors Papper3\Rock Scissors Papper\bin\Debug\Rock Scissors Papper.xml
+C:\Users\student\Desktop\Rock Scissors Papper3\Rock Scissors Papper\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\student\Desktop\Rock Scissors Papper3\Rock Scissors Papper\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\student\Desktop\Rock Scissors Papper3\Rock Scissors Papper\obj\x86\Debug\Rock Scissors Papper.vbproj.GenerateResource.Cache
+C:\Users\Яник\Desktop\Rock Scissors Papper3 (1)\Rock Scissors Papper\obj\x86\Debug\Rock Scissors Papper.exe
+C:\Users\Яник\Desktop\Rock Scissors Papper3 (1)\Rock Scissors Papper\obj\x86\Debug\Rock Scissors Papper.xml
+C:\Users\Яник\Desktop\Rock Scissors Papper3 (1)\Rock Scissors Papper\obj\x86\Debug\Rock Scissors Papper.pdb
+C:\Users\Яник\Desktop\Rock Scissors Papper3 (1)\Rock Scissors Papper\bin\Debug\Rock Scissors Papper.exe
+C:\Users\Яник\Desktop\Rock Scissors Papper3 (1)\Rock Scissors Papper\bin\Debug\Rock Scissors Papper.pdb
+C:\Users\Яник\Desktop\Rock Scissors Papper3 (1)\Rock Scissors Papper\bin\Debug\Rock Scissors Papper.xml
+C:\Users\Яник\Desktop\Rock Scissors Papper3 (1)\Rock Scissors Papper\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Яник\Desktop\Rock Scissors Papper3 (1)\Rock Scissors Papper\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Яник\Desktop\Rock Scissors Papper3 (1)\Rock Scissors Papper\obj\x86\Debug\Rock Scissors Papper.vbproj.GenerateResource.Cache
+C:\Users\Яник\Desktop\Rock Scissors Papper3 (1) - копия\Rock Scissors Papper\obj\x86\Debug\Rock Scissors Papper.exe
+C:\Users\Яник\Desktop\Rock Scissors Papper3 (1) - копия\Rock Scissors Papper\obj\x86\Debug\Rock Scissors Papper.xml
+C:\Users\Яник\Desktop\Rock Scissors Papper3 (1) - копия\Rock Scissors Papper\obj\x86\Debug\Rock Scissors Papper.pdb
+C:\Users\Яник\Desktop\Rock Scissors Papper3 (1) - копия\Rock Scissors Papper\bin\Debug\Rock Scissors Papper.exe
+C:\Users\Яник\Desktop\Rock Scissors Papper3 (1) - копия\Rock Scissors Papper\bin\Debug\Rock Scissors Papper.pdb
+C:\Users\Яник\Desktop\Rock Scissors Papper3 (1) - копия\Rock Scissors Papper\bin\Debug\Rock Scissors Papper.xml
+C:\Users\Яник\Desktop\Rock Scissors Papper3 (1) - копия\Rock Scissors Papper\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Яник\Desktop\Rock Scissors Papper3 (1) - копия\Rock Scissors Papper\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Яник\Desktop\Rock Scissors Papper3 (1) - копия\Rock Scissors Papper\obj\x86\Debug\Rock Scissors Papper.vbproj.GenerateResource.Cache
+C:\Users\Яник\Desktop\Rock Scissors Papper4\Rock Scissors Papper\obj\x86\Debug\Rock Scissors Papper.exe
+C:\Users\Яник\Desktop\Rock Scissors Papper4\Rock Scissors Papper\obj\x86\Debug\Rock Scissors Papper.xml
+C:\Users\Яник\Desktop\Rock Scissors Papper4\Rock Scissors Papper\obj\x86\Debug\Rock Scissors Papper.pdb
+C:\Users\Яник\Desktop\Rock Scissors Papper4\Rock Scissors Papper\bin\Debug\Rock Scissors Papper.exe
+C:\Users\Яник\Desktop\Rock Scissors Papper4\Rock Scissors Papper\bin\Debug\Rock Scissors Papper.pdb
+C:\Users\Яник\Desktop\Rock Scissors Papper4\Rock Scissors Papper\bin\Debug\Rock Scissors Papper.xml
+C:\Users\Яник\Desktop\Rock Scissors Papper4\Rock Scissors Papper\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Яник\Desktop\Rock Scissors Papper4\Rock Scissors Papper\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Яник\Desktop\Rock Scissors Papper4\Rock Scissors Papper\obj\x86\Debug\Rock Scissors Papper.vbproj.GenerateResource.Cache

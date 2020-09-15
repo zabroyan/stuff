@@ -1,0 +1,106 @@
+Agent #0: 0 -> 8 | PATH: 
+(arrive 0/180, depart 0/180) at node 0
+(arrive 2.5/180, depart 3.4/90) at node 1
+(arrive 4.9/90, depart 5.8/180) at node 2
+(arrive 8.3/180, depart 9.2/90) at node 3
+(arrive 10.7/90, depart 11.6/0) at node 4
+(arrive 14.1/0, depart 14.1/0) at node 8
+
+Agent #1: 1 -> 2 | PATH: 
+(arrive 0/0, depart 0.9/90) at node 1
+(arrive 3.9/90, depart 3.9/90) at node 2
+
+(2) VERTEX CONFLICT AT AGENT #0 NODE #2
+
+_____________________________________________________
+Agent #1: 1 -> 2 | PATH: 
+(arrive 0/0, depart 0.9/90) at node 1
+(arrive 3.9/90, depart 4.8/180) at node 2
+(arrive 9.8/180, depart 11.6/0) at node 3
+(arrive 16.6/0, depart 16.6/0) at node 2
+
+Agent #0: 0 -> 8 | PATH: 
+(arrive 0/180, depart 0/180) at node 0
+(arrive 2.5/180, depart 3.4/90) at node 1
+(arrive 4.9/90, depart 5.8/180) at node 2
+(arrive 8.3/180, depart 9.2/90) at node 3
+(arrive 10.7/90, depart 11.6/0) at node 4
+(arrive 14.1/0, depart 14.1/0) at node 8
+
+DISTANCE CONFLICT AT t2.1
+AGENT #0 WAITS FOR 0.166119 AT NODE #0
+
+_____________________________________________________
+Agent #1: 1 -> 2 | PATH: 
+(arrive 0/0, depart 0.9/90) at node 1
+(arrive 3.9/90, depart 4.8/180) at node 2
+(arrive 9.8/180, depart 11.6/0) at node 3
+(arrive 16.6/0, depart 16.6/0) at node 2
+
+Agent #0: 0 -> 8 | PATH: 
+(arrive 0/180, depart 0.2/180) at node 0
+(arrive 2.7/180, depart 3.6/90) at node 1
+(arrive 5.1/90, depart 6/180) at node 2
+(arrive 8.5/180, depart 9.4/90) at node 3
+(arrive 10.9/90, depart 11.8/0) at node 4
+(arrive 14.3/0, depart 14.3/0) at node 8
+
+DISTANCE CONFLICT AT t4.46612
+AGENT #0 WAITS FOR 1.69992 AT NODE #1
+
+_____________________________________________________
+Agent #1: 1 -> 2 | PATH: 
+(arrive 0/0, depart 0.9/90) at node 1
+(arrive 3.9/90, depart 4.8/180) at node 2
+(arrive 9.8/180, depart 11.6/0) at node 3
+(arrive 16.6/0, depart 16.6/0) at node 2
+
+Agent #0: 0 -> 8 | PATH: 
+(arrive 0/180, depart 0.2/180) at node 0
+(arrive 2.7/180, depart 5.3/90) at node 1
+(arrive 6.8/90, depart 7.7/180) at node 2
+(arrive 10.2/180, depart 11.1/90) at node 3
+(arrive 12.6/90, depart 13.5/0) at node 4
+(arrive 16/0, depart 16/0) at node 8
+
+(1) VERTEX CONFLICT AT AGENT #0 NODE #3
+
+(1) EDGE CONFLICT BETWEEN AGENT #0 NODE #2 --- NODE #3
+
+_____________________________________________________
+Agent #0: 0 -> 8 | PATH: 
+(arrive 0/180, depart 0.2/180) at node 0
+(arrive 2.7/180, depart 5.3/90) at node 1
+(arrive 6.8/90, depart 7.7/0) at node 2
+(arrive 10.2/0, depart 11.1/90) at node 9
+(arrive 12.6/90, depart 13.5/180) at node 7
+(arrive 16/180, depart 16/180) at node 8
+
+Agent #1: 1 -> 2 | PATH: 
+(arrive 0/0, depart 0.9/90) at node 1
+(arrive 3.9/90, depart 4.8/180) at node 2
+(arrive 9.8/180, depart 11.6/0) at node 3
+(arrive 16.6/0, depart 16.6/0) at node 2
+
+.....................................................
+
+				RESULT:
+
+path length = 13
+time = 16.6
+Agent #1: 1 -> 2 | PATH: 
+(arrive 0/0, depart 0.9/90) at node 1
+(arrive 3.9/90, depart 4.8/180) at node 2
+(arrive 9.8/180, depart 11.6/0) at node 3
+(arrive 16.6/0, depart 16.6/0) at node 2
+
+path length = 21
+time = 15.9661
+Agent #0: 0 -> 8 | PATH: 
+(arrive 0/180, depart 0.2/180) at node 0
+(arrive 2.7/180, depart 5.3/90) at node 1
+(arrive 6.8/90, depart 7.7/0) at node 2
+(arrive 10.2/0, depart 11.1/90) at node 9
+(arrive 12.6/90, depart 13.5/180) at node 7
+(arrive 16/180, depart 16/180) at node 8
+

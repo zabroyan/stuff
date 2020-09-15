@@ -1,0 +1,620 @@
+Agent #0: 0 -> 8 | PATH: 
+(arrive 0/180, depart 0/180) at node 0
+(arrive 2.5/180, depart 3.4/90) at node 1
+(arrive 4.9/90, depart 5.8/180) at node 2
+(arrive 8.3/180, depart 9.2/90) at node 3
+(arrive 10.7/90, depart 11.6/0) at node 4
+(arrive 14.1/0, depart 14.1/0) at node 8
+
+Agent #1: 1 -> 2 | PATH: 
+(arrive 0/0, depart 0.9/90) at node 1
+(arrive 3.9/90, depart 3.9/90) at node 2
+
+(2) VERTEX CONFLICT AT AGENT #0 NODE #2
+
+_____________________________________________________
+Agent #1: 1 -> 2 | PATH: 
+(arrive 0/0, depart 0.9/90) at node 1
+(arrive 3.9/90, depart 4.8/180) at node 2
+(arrive 9.8/180, depart 11.6/0) at node 3
+(arrive 16.6/0, depart 16.6/0) at node 2
+
+Agent #0: 0 -> 8 | PATH: 
+(arrive 0/180, depart 0/180) at node 0
+(arrive 2.5/180, depart 3.4/90) at node 1
+(arrive 4.9/90, depart 5.8/180) at node 2
+(arrive 8.3/180, depart 9.2/90) at node 3
+(arrive 10.7/90, depart 11.6/0) at node 4
+(arrive 14.1/0, depart 14.1/0) at node 8
+
+DISTANCE CONFLICT AT t1.6
+AGENT #1 WAITS FOR 0.0367547 AT NODE #1
+
+_____________________________________________________
+Agent #0: 0 -> 8 | PATH: 
+(arrive 0/180, depart 0/180) at node 0
+(arrive 2.5/180, depart 3.4/90) at node 1
+(arrive 4.9/90, depart 5.8/180) at node 2
+(arrive 8.3/180, depart 9.2/90) at node 3
+(arrive 10.7/90, depart 11.6/0) at node 4
+(arrive 14.1/0, depart 14.1/0) at node 8
+
+Agent #1: 1 -> 2 | PATH: 
+(arrive 0/0, depart 0.9/90) at node 1
+(arrive 3.9/90, depart 4.8/180) at node 2
+(arrive 9.8/180, depart 11.6/0) at node 3
+(arrive 16.6/0, depart 16.6/0) at node 2
+
+DISTANCE CONFLICT AT t1.6
+AGENT #1 WAITS FOR 0.0434168 AT NODE #1
+
+_____________________________________________________
+Agent #0: 0 -> 8 | PATH: 
+(arrive 0/180, depart 0/180) at node 0
+(arrive 2.5/180, depart 3.4/90) at node 1
+(arrive 4.9/90, depart 5.8/180) at node 2
+(arrive 8.3/180, depart 9.2/90) at node 3
+(arrive 10.7/90, depart 11.6/0) at node 4
+(arrive 14.1/0, depart 14.1/0) at node 8
+
+Agent #1: 1 -> 2 | PATH: 
+(arrive 0/0, depart 1/90) at node 1
+(arrive 4/90, depart 4.9/180) at node 2
+(arrive 9.9/180, depart 11.7/0) at node 3
+(arrive 16.7/0, depart 16.7/0) at node 2
+
+DISTANCE CONFLICT AT t1.6
+AGENT #1 WAITS FOR 0.0507688 AT NODE #1
+
+_____________________________________________________
+Agent #0: 0 -> 8 | PATH: 
+(arrive 0/180, depart 0/180) at node 0
+(arrive 2.5/180, depart 3.4/90) at node 1
+(arrive 4.9/90, depart 5.8/180) at node 2
+(arrive 8.3/180, depart 9.2/90) at node 3
+(arrive 10.7/90, depart 11.6/0) at node 4
+(arrive 14.1/0, depart 14.1/0) at node 8
+
+Agent #1: 1 -> 2 | PATH: 
+(arrive 0/0, depart 1/90) at node 1
+(arrive 4/90, depart 4.9/180) at node 2
+(arrive 9.9/180, depart 11.7/0) at node 3
+(arrive 16.7/0, depart 16.7/0) at node 2
+
+(1) VERTEX CONFLICT AT AGENT #0 NODE #2
+
+DISTANCE CONFLICT AT t5.80005
+AGENT #0 WAITS FOR 2.86906 AT NODE #1
+
+_____________________________________________________
+Agent #1: 1 -> 2 | PATH: 
+(arrive 0/0, depart 1/90) at node 1
+(arrive 4/90, depart 4.9/180) at node 2
+(arrive 9.9/180, depart 11.7/0) at node 3
+(arrive 16.7/0, depart 16.7/0) at node 2
+
+Agent #0: 0 -> 8 | PATH: 
+(arrive 0/180, depart 0/180) at node 0
+(arrive 2.5/180, depart 6.3/90) at node 1
+(arrive 7.8/90, depart 8.7/180) at node 2
+(arrive 11.2/180, depart 12.1/90) at node 3
+(arrive 13.6/90, depart 14.5/0) at node 4
+(arrive 17/0, depart 17/0) at node 8
+
+(1) VERTEX CONFLICT AT AGENT #0 NODE #3
+
+DISTANCE CONFLICT AT t12.0691
+AGENT #0 WAITS FOR 2.3382 AT NODE #2
+
+_____________________________________________________
+Agent #1: 1 -> 2 | PATH: 
+(arrive 0/0, depart 1/90) at node 1
+(arrive 4/90, depart 4.9/180) at node 2
+(arrive 9.9/180, depart 11.7/0) at node 3
+(arrive 16.7/0, depart 16.7/0) at node 2
+
+Agent #0: 0 -> 8 | PATH: 
+(arrive 0/180, depart 0/180) at node 0
+(arrive 2.5/180, depart 6.3/90) at node 1
+(arrive 7.8/90, depart 11/180) at node 2
+(arrive 13.5/180, depart 14.4/90) at node 3
+(arrive 15.9/90, depart 16.8/0) at node 4
+(arrive 19.3/0, depart 19.3/0) at node 8
+
+(2) EDGE CONFLICT BETWEEN AGENT #0 NODE #2 --- NODE #3
+
+_____________________________________________________
+Agent #0: 0 -> 8 | PATH: 
+(arrive 0/180, depart 0/180) at node 0
+(arrive 2.5/180, depart 6.3/90) at node 1
+(arrive 7.8/90, depart 8.7/0) at node 2
+(arrive 11.2/0, depart 12.1/90) at node 9
+(arrive 13.6/90, depart 14.5/180) at node 7
+(arrive 17/180, depart 17/180) at node 8
+
+Agent #1: 1 -> 2 | PATH: 
+(arrive 0/0, depart 1/90) at node 1
+(arrive 4/90, depart 4.9/180) at node 2
+(arrive 9.9/180, depart 11.7/0) at node 3
+(arrive 16.7/0, depart 16.7/0) at node 2
+
+DISTANCE CONFLICT AT t1.6
+AGENT #1 WAITS FOR 0.0586711 AT NODE #1
+
+_____________________________________________________
+Agent #0: 0 -> 8 | PATH: 
+(arrive 0/180, depart 0/180) at node 0
+(arrive 2.5/180, depart 6.3/90) at node 1
+(arrive 7.8/90, depart 8.7/0) at node 2
+(arrive 11.2/0, depart 12.1/90) at node 9
+(arrive 13.6/90, depart 14.5/180) at node 7
+(arrive 17/180, depart 17/180) at node 8
+
+Agent #1: 1 -> 2 | PATH: 
+(arrive 0/0, depart 1.1/90) at node 1
+(arrive 4.1/90, depart 5/180) at node 2
+(arrive 10/180, depart 11.8/0) at node 3
+(arrive 16.8/0, depart 16.8/0) at node 2
+
+DISTANCE CONFLICT AT t1.6
+AGENT #1 WAITS FOR 0.0668933 AT NODE #1
+
+_____________________________________________________
+Agent #0: 0 -> 8 | PATH: 
+(arrive 0/180, depart 0/180) at node 0
+(arrive 2.5/180, depart 6.3/90) at node 1
+(arrive 7.8/90, depart 8.7/0) at node 2
+(arrive 11.2/0, depart 12.1/90) at node 9
+(arrive 13.6/90, depart 14.5/180) at node 7
+(arrive 17/180, depart 17/180) at node 8
+
+Agent #1: 1 -> 2 | PATH: 
+(arrive 0/0, depart 1.2/90) at node 1
+(arrive 4.2/90, depart 5.1/180) at node 2
+(arrive 10.1/180, depart 11.9/0) at node 3
+(arrive 16.9/0, depart 16.9/0) at node 2
+
+DISTANCE CONFLICT AT t1.6
+AGENT #1 WAITS FOR 0.0751071 AT NODE #1
+
+_____________________________________________________
+Agent #0: 0 -> 8 | PATH: 
+(arrive 0/180, depart 0/180) at node 0
+(arrive 2.5/180, depart 6.3/90) at node 1
+(arrive 7.8/90, depart 8.7/0) at node 2
+(arrive 11.2/0, depart 12.1/90) at node 9
+(arrive 13.6/90, depart 14.5/180) at node 7
+(arrive 17/180, depart 17/180) at node 8
+
+Agent #1: 1 -> 2 | PATH: 
+(arrive 0/0, depart 1.2/90) at node 1
+(arrive 4.2/90, depart 5.1/180) at node 2
+(arrive 10.1/180, depart 11.9/0) at node 3
+(arrive 16.9/0, depart 16.9/0) at node 2
+
+DISTANCE CONFLICT AT t1.6
+AGENT #1 WAITS FOR 0.0828924 AT NODE #1
+
+_____________________________________________________
+Agent #0: 0 -> 8 | PATH: 
+(arrive 0/180, depart 0/180) at node 0
+(arrive 2.5/180, depart 6.3/90) at node 1
+(arrive 7.8/90, depart 8.7/0) at node 2
+(arrive 11.2/0, depart 12.1/90) at node 9
+(arrive 13.6/90, depart 14.5/180) at node 7
+(arrive 17/180, depart 17/180) at node 8
+
+Agent #1: 1 -> 2 | PATH: 
+(arrive 0/0, depart 1.3/90) at node 1
+(arrive 4.3/90, depart 5.2/180) at node 2
+(arrive 10.2/180, depart 12/0) at node 3
+(arrive 17/0, depart 17/0) at node 2
+
+DISTANCE CONFLICT AT t1.6
+AGENT #1 WAITS FOR 0.089761 AT NODE #1
+
+_____________________________________________________
+Agent #0: 0 -> 8 | PATH: 
+(arrive 0/180, depart 0/180) at node 0
+(arrive 2.5/180, depart 6.3/90) at node 1
+(arrive 7.8/90, depart 8.7/0) at node 2
+(arrive 11.2/0, depart 12.1/90) at node 9
+(arrive 13.6/90, depart 14.5/180) at node 7
+(arrive 17/180, depart 17/180) at node 8
+
+Agent #1: 1 -> 2 | PATH: 
+(arrive 0/0, depart 1.4/90) at node 1
+(arrive 4.4/90, depart 5.3/180) at node 2
+(arrive 10.3/180, depart 12.1/0) at node 3
+(arrive 17.1/0, depart 17.1/0) at node 2
+
+DISTANCE CONFLICT AT t1.6
+AGENT #1 WAITS FOR 0.0952008 AT NODE #1
+
+_____________________________________________________
+Agent #0: 0 -> 8 | PATH: 
+(arrive 0/180, depart 0/180) at node 0
+(arrive 2.5/180, depart 6.3/90) at node 1
+(arrive 7.8/90, depart 8.7/0) at node 2
+(arrive 11.2/0, depart 12.1/90) at node 9
+(arrive 13.6/90, depart 14.5/180) at node 7
+(arrive 17/180, depart 17/180) at node 8
+
+Agent #1: 1 -> 2 | PATH: 
+(arrive 0/0, depart 1.5/90) at node 1
+(arrive 4.5/90, depart 5.4/180) at node 2
+(arrive 10.4/180, depart 12.2/0) at node 3
+(arrive 17.2/0, depart 17.2/0) at node 2
+
+DISTANCE CONFLICT AT t1.6
+AGENT #1 WAITS FOR 0.0987365 AT NODE #1
+
+_____________________________________________________
+Agent #0: 0 -> 8 | PATH: 
+(arrive 0/180, depart 0/180) at node 0
+(arrive 2.5/180, depart 6.3/90) at node 1
+(arrive 7.8/90, depart 8.7/0) at node 2
+(arrive 11.2/0, depart 12.1/90) at node 9
+(arrive 13.6/90, depart 14.5/180) at node 7
+(arrive 17/180, depart 17/180) at node 8
+
+Agent #1: 1 -> 2 | PATH: 
+(arrive 0/0, depart 1.6/90) at node 1
+(arrive 4.6/90, depart 5.5/180) at node 2
+(arrive 10.5/180, depart 12.3/0) at node 3
+(arrive 17.3/0, depart 17.3/0) at node 2
+
+DISTANCE CONFLICT AT t1.6
+AGENT #1 WAITS FOR 0.0999996 AT NODE #1
+
+_____________________________________________________
+Agent #0: 0 -> 8 | PATH: 
+(arrive 0/180, depart 0/180) at node 0
+(arrive 2.5/180, depart 6.3/90) at node 1
+(arrive 7.8/90, depart 8.7/0) at node 2
+(arrive 11.2/0, depart 12.1/90) at node 9
+(arrive 13.6/90, depart 14.5/180) at node 7
+(arrive 17/180, depart 17/180) at node 8
+
+Agent #1: 1 -> 2 | PATH: 
+(arrive 0/0, depart 1.7/90) at node 1
+(arrive 4.7/90, depart 5.6/180) at node 2
+(arrive 10.6/180, depart 12.4/0) at node 3
+(arrive 17.4/0, depart 17.4/0) at node 2
+
+DISTANCE CONFLICT AT t1.6
+AGENT #0 WAITS FOR 0.87178 AT NODE #0
+
+_____________________________________________________
+Agent #1: 1 -> 2 | PATH: 
+(arrive 0/0, depart 1.7/90) at node 1
+(arrive 4.7/90, depart 5.6/180) at node 2
+(arrive 10.6/180, depart 12.4/0) at node 3
+(arrive 17.4/0, depart 17.4/0) at node 2
+
+Agent #0: 0 -> 8 | PATH: 
+(arrive 0/180, depart 0.9/180) at node 0
+(arrive 3.4/180, depart 4.3/90) at node 1
+(arrive 5.8/90, depart 6.7/0) at node 2
+(arrive 9.2/0, depart 10.1/90) at node 9
+(arrive 11.6/90, depart 12.5/180) at node 7
+(arrive 15/180, depart 15/180) at node 8
+
+DISTANCE CONFLICT AT t2.5
+AGENT #1 WAITS FOR 0.0443483 AT NODE #1
+
+_____________________________________________________
+Agent #0: 0 -> 8 | PATH: 
+(arrive 0/180, depart 0.9/180) at node 0
+(arrive 3.4/180, depart 4.3/90) at node 1
+(arrive 5.8/90, depart 6.7/0) at node 2
+(arrive 9.2/0, depart 10.1/90) at node 9
+(arrive 11.6/90, depart 12.5/180) at node 7
+(arrive 15/180, depart 15/180) at node 8
+
+Agent #1: 1 -> 2 | PATH: 
+(arrive 0/0, depart 1.7/90) at node 1
+(arrive 4.7/90, depart 5.6/180) at node 2
+(arrive 10.6/180, depart 12.4/0) at node 3
+(arrive 17.4/0, depart 17.4/0) at node 2
+
+DISTANCE CONFLICT AT t2.5
+AGENT #1 WAITS FOR 0.0537349 AT NODE #1
+
+_____________________________________________________
+Agent #0: 0 -> 8 | PATH: 
+(arrive 0/180, depart 0.9/180) at node 0
+(arrive 3.4/180, depart 4.3/90) at node 1
+(arrive 5.8/90, depart 6.7/0) at node 2
+(arrive 9.2/0, depart 10.1/90) at node 9
+(arrive 11.6/90, depart 12.5/180) at node 7
+(arrive 15/180, depart 15/180) at node 8
+
+Agent #1: 1 -> 2 | PATH: 
+(arrive 0/0, depart 1.8/90) at node 1
+(arrive 4.8/90, depart 5.7/180) at node 2
+(arrive 10.7/180, depart 12.5/0) at node 3
+(arrive 17.5/0, depart 17.5/0) at node 2
+
+DISTANCE CONFLICT AT t2.5
+AGENT #1 WAITS FOR 0.0642788 AT NODE #1
+
+_____________________________________________________
+Agent #0: 0 -> 8 | PATH: 
+(arrive 0/180, depart 0.9/180) at node 0
+(arrive 3.4/180, depart 4.3/90) at node 1
+(arrive 5.8/90, depart 6.7/0) at node 2
+(arrive 9.2/0, depart 10.1/90) at node 9
+(arrive 11.6/90, depart 12.5/180) at node 7
+(arrive 15/180, depart 15/180) at node 8
+
+Agent #1: 1 -> 2 | PATH: 
+(arrive 0/0, depart 1.9/90) at node 1
+(arrive 4.9/90, depart 5.8/180) at node 2
+(arrive 10.8/180, depart 12.6/0) at node 3
+(arrive 17.6/0, depart 17.6/0) at node 2
+
+DISTANCE CONFLICT AT t2.5
+AGENT #1 WAITS FOR 0.0757374 AT NODE #1
+
+_____________________________________________________
+Agent #0: 0 -> 8 | PATH: 
+(arrive 0/180, depart 0.9/180) at node 0
+(arrive 3.4/180, depart 4.3/90) at node 1
+(arrive 5.8/90, depart 6.7/0) at node 2
+(arrive 9.2/0, depart 10.1/90) at node 9
+(arrive 11.6/90, depart 12.5/180) at node 7
+(arrive 15/180, depart 15/180) at node 8
+
+Agent #1: 1 -> 2 | PATH: 
+(arrive 0/0, depart 1.9/90) at node 1
+(arrive 4.9/90, depart 5.8/180) at node 2
+(arrive 10.8/180, depart 12.6/0) at node 3
+(arrive 17.6/0, depart 17.6/0) at node 2
+
+(1) VERTEX CONFLICT AT AGENT #0 NODE #2
+
+DISTANCE CONFLICT AT t6.67183
+AGENT #0 WAITS FOR 2.83548 AT NODE #1
+
+_____________________________________________________
+Agent #1: 1 -> 2 | PATH: 
+(arrive 0/0, depart 1.9/90) at node 1
+(arrive 4.9/90, depart 5.8/180) at node 2
+(arrive 10.8/180, depart 12.6/0) at node 3
+(arrive 17.6/0, depart 17.6/0) at node 2
+
+Agent #0: 0 -> 8 | PATH: 
+(arrive 0/180, depart 0.9/180) at node 0
+(arrive 3.4/180, depart 7.1/90) at node 1
+(arrive 8.6/90, depart 9.5/0) at node 2
+(arrive 12/0, depart 12.9/90) at node 9
+(arrive 14.4/90, depart 15.3/180) at node 7
+(arrive 17.8/180, depart 17.8/180) at node 8
+
+DISTANCE CONFLICT AT t2.4
+AGENT #0 WAITS FOR 0.935452 AT NODE #0
+
+_____________________________________________________
+Agent #1: 1 -> 2 | PATH: 
+(arrive 0/0, depart 1.9/90) at node 1
+(arrive 4.9/90, depart 5.8/180) at node 2
+(arrive 10.8/180, depart 12.6/0) at node 3
+(arrive 17.6/0, depart 17.6/0) at node 2
+
+Agent #0: 0 -> 8 | PATH: 
+(arrive 0/180, depart 1.8/180) at node 0
+(arrive 4.3/180, depart 5.2/90) at node 1
+(arrive 6.7/90, depart 7.6/0) at node 2
+(arrive 10.1/0, depart 11/90) at node 9
+(arrive 12.5/90, depart 13.4/180) at node 7
+(arrive 15.9/180, depart 15.9/180) at node 8
+
+DISTANCE CONFLICT AT t5.80723
+AGENT #0 WAITS FOR 0.87167 AT NODE #1
+
+_____________________________________________________
+Agent #1: 1 -> 2 | PATH: 
+(arrive 0/0, depart 1.9/90) at node 1
+(arrive 4.9/90, depart 5.8/180) at node 2
+(arrive 10.8/180, depart 12.6/0) at node 3
+(arrive 17.6/0, depart 17.6/0) at node 2
+
+Agent #0: 0 -> 8 | PATH: 
+(arrive 0/180, depart 1.8/180) at node 0
+(arrive 4.3/180, depart 6.1/90) at node 1
+(arrive 7.6/90, depart 8.5/0) at node 2
+(arrive 11/0, depart 11.9/90) at node 9
+(arrive 13.4/90, depart 14.3/180) at node 7
+(arrive 16.8/180, depart 16.8/180) at node 8
+
+DISTANCE CONFLICT AT t6.70723
+AGENT #1 WAITS FOR 0.0285218 AT NODE #2
+
+_____________________________________________________
+Agent #0: 0 -> 8 | PATH: 
+(arrive 0/180, depart 1.8/180) at node 0
+(arrive 4.3/180, depart 6.1/90) at node 1
+(arrive 7.6/90, depart 8.5/0) at node 2
+(arrive 11/0, depart 11.9/90) at node 9
+(arrive 13.4/90, depart 14.3/180) at node 7
+(arrive 16.8/180, depart 16.8/180) at node 8
+
+Agent #1: 1 -> 2 | PATH: 
+(arrive 0/0, depart 1.9/90) at node 1
+(arrive 4.9/90, depart 5.9/180) at node 2
+(arrive 10.9/180, depart 12.7/0) at node 3
+(arrive 17.7/0, depart 17.7/0) at node 2
+
+DISTANCE CONFLICT AT t6.70723
+AGENT #1 WAITS FOR 0.0352815 AT NODE #2
+
+_____________________________________________________
+Agent #0: 0 -> 8 | PATH: 
+(arrive 0/180, depart 1.8/180) at node 0
+(arrive 4.3/180, depart 6.1/90) at node 1
+(arrive 7.6/90, depart 8.5/0) at node 2
+(arrive 11/0, depart 11.9/90) at node 9
+(arrive 13.4/90, depart 14.3/180) at node 7
+(arrive 16.8/180, depart 16.8/180) at node 8
+
+Agent #1: 1 -> 2 | PATH: 
+(arrive 0/0, depart 1.9/90) at node 1
+(arrive 4.9/90, depart 5.9/180) at node 2
+(arrive 10.9/180, depart 12.7/0) at node 3
+(arrive 17.7/0, depart 17.7/0) at node 2
+
+DISTANCE CONFLICT AT t6.70723
+AGENT #1 WAITS FOR 0.0432667 AT NODE #2
+
+_____________________________________________________
+Agent #0: 0 -> 8 | PATH: 
+(arrive 0/180, depart 1.8/180) at node 0
+(arrive 4.3/180, depart 6.1/90) at node 1
+(arrive 7.6/90, depart 8.5/0) at node 2
+(arrive 11/0, depart 11.9/90) at node 9
+(arrive 13.4/90, depart 14.3/180) at node 7
+(arrive 16.8/180, depart 16.8/180) at node 8
+
+Agent #1: 1 -> 2 | PATH: 
+(arrive 0/0, depart 1.9/90) at node 1
+(arrive 4.9/90, depart 5.9/180) at node 2
+(arrive 10.9/180, depart 12.7/0) at node 3
+(arrive 17.7/0, depart 17.7/0) at node 2
+
+DISTANCE CONFLICT AT t6.70723
+AGENT #1 WAITS FOR 0.0525055 AT NODE #2
+
+_____________________________________________________
+Agent #0: 0 -> 8 | PATH: 
+(arrive 0/180, depart 1.8/180) at node 0
+(arrive 4.3/180, depart 6.1/90) at node 1
+(arrive 7.6/90, depart 8.5/0) at node 2
+(arrive 11/0, depart 11.9/90) at node 9
+(arrive 13.4/90, depart 14.3/180) at node 7
+(arrive 16.8/180, depart 16.8/180) at node 8
+
+Agent #1: 1 -> 2 | PATH: 
+(arrive 0/0, depart 1.9/90) at node 1
+(arrive 4.9/90, depart 6/180) at node 2
+(arrive 11/180, depart 12.8/0) at node 3
+(arrive 17.8/0, depart 17.8/0) at node 2
+
+DISTANCE CONFLICT AT t6.70723
+AGENT #1 WAITS FOR 0.0629222 AT NODE #2
+
+_____________________________________________________
+Agent #0: 0 -> 8 | PATH: 
+(arrive 0/180, depart 1.8/180) at node 0
+(arrive 4.3/180, depart 6.1/90) at node 1
+(arrive 7.6/90, depart 8.5/0) at node 2
+(arrive 11/0, depart 11.9/90) at node 9
+(arrive 13.4/90, depart 14.3/180) at node 7
+(arrive 16.8/180, depart 16.8/180) at node 8
+
+Agent #1: 1 -> 2 | PATH: 
+(arrive 0/0, depart 1.9/90) at node 1
+(arrive 4.9/90, depart 6.1/180) at node 2
+(arrive 11.1/180, depart 12.9/0) at node 3
+(arrive 17.9/0, depart 17.9/0) at node 2
+
+DISTANCE CONFLICT AT t6.70723
+AGENT #1 WAITS FOR 0.0742954 AT NODE #2
+
+_____________________________________________________
+Agent #0: 0 -> 8 | PATH: 
+(arrive 0/180, depart 1.8/180) at node 0
+(arrive 4.3/180, depart 6.1/90) at node 1
+(arrive 7.6/90, depart 8.5/0) at node 2
+(arrive 11/0, depart 11.9/90) at node 9
+(arrive 13.4/90, depart 14.3/180) at node 7
+(arrive 16.8/180, depart 16.8/180) at node 8
+
+Agent #1: 1 -> 2 | PATH: 
+(arrive 0/0, depart 1.9/90) at node 1
+(arrive 4.9/90, depart 6.1/180) at node 2
+(arrive 11.1/180, depart 12.9/0) at node 3
+(arrive 17.9/0, depart 17.9/0) at node 2
+
+DISTANCE CONFLICT AT t6.70723
+AGENT #1 WAITS FOR 0.0862213 AT NODE #2
+
+_____________________________________________________
+Agent #0: 0 -> 8 | PATH: 
+(arrive 0/180, depart 1.8/180) at node 0
+(arrive 4.3/180, depart 6.1/90) at node 1
+(arrive 7.6/90, depart 8.5/0) at node 2
+(arrive 11/0, depart 11.9/90) at node 9
+(arrive 13.4/90, depart 14.3/180) at node 7
+(arrive 16.8/180, depart 16.8/180) at node 8
+
+Agent #1: 1 -> 2 | PATH: 
+(arrive 0/0, depart 1.9/90) at node 1
+(arrive 4.9/90, depart 6.2/180) at node 2
+(arrive 11.2/180, depart 13/0) at node 3
+(arrive 18/0, depart 18/0) at node 2
+
+DISTANCE CONFLICT AT t6.60723
+AGENT #0 WAITS FOR 0.860327 AT NODE #1
+
+_____________________________________________________
+Agent #1: 1 -> 2 | PATH: 
+(arrive 0/0, depart 1.9/90) at node 1
+(arrive 4.9/90, depart 6.2/180) at node 2
+(arrive 11.2/180, depart 13/0) at node 3
+(arrive 18/0, depart 18/0) at node 2
+
+Agent #0: 0 -> 8 | PATH: 
+(arrive 0/180, depart 1.8/180) at node 0
+(arrive 4.3/180, depart 6.9/90) at node 1
+(arrive 8.4/90, depart 9.3/0) at node 2
+(arrive 11.8/0, depart 12.7/90) at node 9
+(arrive 14.2/90, depart 15.1/180) at node 7
+(arrive 17.6/180, depart 17.6/180) at node 8
+
+DISTANCE CONFLICT AT t7.90723
+AGENT #0 WAITS FOR 3.38132 AT NODE #1
+
+_____________________________________________________
+Agent #1: 1 -> 2 | PATH: 
+(arrive 0/0, depart 1.9/90) at node 1
+(arrive 4.9/90, depart 6.2/180) at node 2
+(arrive 11.2/180, depart 13/0) at node 3
+(arrive 18/0, depart 18/0) at node 2
+
+Agent #0: 0 -> 8 | PATH: 
+(arrive 0/180, depart 1.8/180) at node 0
+(arrive 4.3/180, depart 10.3/90) at node 1
+(arrive 11.8/90, depart 12.7/0) at node 2
+(arrive 15.2/0, depart 16.1/90) at node 9
+(arrive 17.6/90, depart 18.5/180) at node 7
+(arrive 21/180, depart 21/180) at node 8
+
+(1) EDGE CONFLICT BETWEEN AGENT #0 NODE #2 --- NODE #3
+
+_____________________________________________________
+(1) EDGE CONFLICT BETWEEN AGENT #0 NODE #2 --- NODE #3
+
+_____________________________________________________
+.....................................................
+
+				RESULT:
+
+path length = 13
+time = 18.0193
+Agent #1: 1 -> 2 | PATH: 
+(arrive 0/0, depart 1.9/90) at node 1
+(arrive 4.9/90, depart 6.2/180) at node 2
+(arrive 11.2/180, depart 13/0) at node 3
+(arrive 18/0, depart 18/0) at node 2
+
+path length = 21
+time = 21.0207
+Agent #0: 0 -> 8 | PATH: 
+(arrive 0/180, depart 1.8/180) at node 0
+(arrive 4.3/180, depart 10.3/90) at node 1
+(arrive 11.8/90, depart 12.7/0) at node 2
+(arrive 15.2/0, depart 16.1/90) at node 9
+(arrive 17.6/90, depart 18.5/180) at node 7
+(arrive 21/180, depart 21/180) at node 8
+

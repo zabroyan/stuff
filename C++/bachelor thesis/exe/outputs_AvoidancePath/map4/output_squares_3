@@ -1,0 +1,67 @@
+Agent #0: 0 -> 3 | PATH: 
+(arrive 0/180, depart 0/180) at node 0
+(arrive 4/180, depart 4/180) at node 1
+(arrive 10/180, depart 10.9/270) at node 2
+(arrive 16.9/270, depart 16.9/270) at node 3
+
+Agent #1: 1 -> 7 | PATH: 
+(arrive 0/0, depart 0/0) at node 1
+(arrive 2/0, depart 2.9/270) at node 0
+(arrive 5.9/270, depart 6.8/180) at node 6
+(arrive 8.8/180, depart 8.8/180) at node 7
+
+(2) EDGE CONFLICT BETWEEN AGENT #0 NODE #0 --- NODE #1
+
+_____________________________________________________
+Agent #0: 0 -> 3 | PATH: 
+(arrive 0/180, depart 0.9/270) at node 0
+(arrive 6.9/270, depart 7.8/180) at node 6
+(arrive 11.8/180, depart 11.8/180) at node 7
+(arrive 17.8/180, depart 17.8/180) at node 3
+
+Agent #1: 1 -> 7 | PATH: 
+(arrive 0/0, depart 0/0) at node 1
+(arrive 2/0, depart 2.9/270) at node 0
+(arrive 5.9/270, depart 6.8/180) at node 6
+(arrive 8.8/180, depart 8.8/180) at node 7
+
+(2) VERTEX CONFLICT AT AGENT #0 NODE #7
+
+_____________________________________________________
+AGENT# 1 WAITS FOR 3.99989 AT NODE# 1
+__________________________________________________________
+Agent #1: 1 -> 7 | PATH: 
+(arrive 0/0, depart 4/0) at node 1
+(arrive 6/0, depart 6.9/270) at node 0
+(arrive 9.9/270, depart 10.8/180) at node 6
+(arrive 12.8/180, depart 12.8/180) at node 7
+
+Agent #0: 0 -> 3 | PATH: 
+(arrive 0/180, depart 0.9/270) at node 0
+(arrive 6.9/270, depart 7.8/180) at node 6
+(arrive 11.8/180, depart 11.8/180) at node 7
+(arrive 17.8/180, depart 17.8/180) at node 3
+
+(1) EDGE CONFLICT BETWEEN AGENT #1 NODE #1 --- NODE #0
+
+_____________________________________________________
+.....................................................
+
+				RESULT:
+
+path length = 14
+time = 12.7998
+Agent #1: 1 -> 7 | PATH: 
+(arrive 0/0, depart 4/0) at node 1
+(arrive 6/0, depart 6.9/270) at node 0
+(arrive 9.9/270, depart 10.8/180) at node 6
+(arrive 12.8/180, depart 12.8/180) at node 7
+
+path length = 16
+time = 17.7998
+Agent #0: 0 -> 3 | PATH: 
+(arrive 0/180, depart 0.9/270) at node 0
+(arrive 6.9/270, depart 7.8/180) at node 6
+(arrive 11.8/180, depart 11.8/180) at node 7
+(arrive 17.8/180, depart 17.8/180) at node 3
+

@@ -1,0 +1,4 @@
+pyqt5
+click
+antlr4-python3-runtime
+multi_key_dict

@@ -1,0 +1,54 @@
+Agent #0: 3 -> 7 | PATH: 
+(arrive 0/0, depart 0/0) at node 3
+(arrive 6/0, depart 6.9/90) at node 1
+(arrive 12.9/90, depart 12.9/90) at node 7
+
+Agent #1: 1 -> 2 | PATH: 
+(arrive 0/270, depart 0.9/0) at node 1
+(arrive 2.9/0, depart 2.9/0) at node 2
+
+DISTANCE CONFLICT AT t7
+AGENT #1 ROTATES 16 AT NODE #2
+AGENT #0 WAITS FOR 0.16 AT NODE #1
+
+_____________________________________________________
+Agent #1: 1 -> 2 | PATH: 
+(arrive 0/270, depart 0.9/0) at node 1
+(arrive 2.9/0, depart 3.1/16) at node 2
+
+Agent #0: 3 -> 7 | PATH: 
+(arrive 0/0, depart 0/0) at node 3
+(arrive 6/0, depart 7.1/90) at node 1
+(arrive 13.1/90, depart 13.1/90) at node 7
+
+DISTANCE CONFLICT AT t7.1
+AGENT #1 ROTATES 2 AT NODE #2
+AGENT #0 WAITS FOR 0.02 AT NODE #1
+
+_____________________________________________________
+Agent #1: 1 -> 2 | PATH: 
+(arrive 0/270, depart 0.9/0) at node 1
+(arrive 2.9/0, depart 3.1/18) at node 2
+
+Agent #0: 3 -> 7 | PATH: 
+(arrive 0/0, depart 0/0) at node 3
+(arrive 6/0, depart 7.1/90) at node 1
+(arrive 13.1/90, depart 13.1/90) at node 7
+
+.....................................................
+
+				RESULT:
+
+path length = 12
+time = 13.08
+Agent #0: 3 -> 7 | PATH: 
+(arrive 0/0, depart 0/0) at node 3
+(arrive 6/0, depart 7.1/90) at node 1
+(arrive 13.1/90, depart 13.1/90) at node 7
+
+path length = 2
+time = 3.08003
+Agent #1: 1 -> 2 | PATH: 
+(arrive 0/270, depart 0.9/0) at node 1
+(arrive 2.9/0, depart 3.1/18) at node 2
+
