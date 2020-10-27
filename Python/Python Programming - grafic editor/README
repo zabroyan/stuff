@@ -1,3 +1,5 @@
+---EN below---
+
 Grafický editor
 
 Výstupem semestrální práce bude CLI aplikace, která dokáže načíst vstupní 
@@ -20,3 +22,28 @@ python3 Image.py --rotate --bw --lighten 25 INPUT_IMAGE_PATH OUTPUT_IMAGE_PATH
 
 INPUT_IMAGE_PATH je im.jpg
 OUTPUT_IMAGE_PATH musí být formatu .png, .jpg nebo .jpeg
+
+
+---EN---
+Graphic editor
+
+The output of the semester work will be a CLI application that can read the input
+image, perform selected basic graphic operations on it and save the output.
+Required operations
+
+     flip the image 90 ° to the right; --rotate
+     mirroring; --mirror
+     inverse image (negative); --inverse
+     grayscale conversion; --bw
+     lightening; --lighten <percentage: 0-100>
+     darkening; --darken <percentage: 0-100>
+     edge highlighting (so-called “unsharp mask”); --sharpen
+
+Operations can be freely combined using the >1 parameter (see Command Example).
+
+How to start / use the application:
+
+python3 Image.py --rotate --bw --lighten 25 INPUT_IMAGE_PATH OUTPUT_IMAGE_PATH
+
+INPUT_IMAGE_PATH is im.jpg
+OUTPUT_IMAGE_PATH must be in .png, .jpg, or .jpeg format

@@ -8,7 +8,7 @@ body, html {
     text-align: center;
     position: absolute;
     height: 20%;
-    left: 42%;
+    left: 35%;
     color: #ffffff;
     text-shadow: 2px 1px #1b9ce5;
 }
@@ -48,40 +48,4 @@ span {
     color: black;
     top: 0;
     font-size: 40px;
-}
-
-ul {
-    list-style-type: none;
-    margin-top: 10%;
-    margin-left: 30%;
-    margin-right: 30%;
-    padding: 20px;
-    /*background-color: white;*/
-    font-family: "Lato", serif;
-    color: #000000;
-    font-size: 40px;
-    text-align: center;
-    text-shadow: 2px 1px #1b9ce5;
-}
-
-#links {
-    margin-left: 30%;
-    margin-right: 30%;
-}
-
-#links a {
-    font-family: "Lato", serif;
-    float: left;
-    padding: 13px;
-    color: #000000;
-    text-decoration: none;
-    font-size: 30px;
-    width: 29%;
-    text-align: center;
-    text-shadow: 2px 1px #1b9ce5;
-}
-
-#links a:hover {
-    background-color: #b6d8f2;
-    color: black;
 }
