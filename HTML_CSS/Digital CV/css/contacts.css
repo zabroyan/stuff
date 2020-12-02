@@ -14,7 +14,7 @@ body, html {
 }
 
 .sidenav {
-    display: none;
+    /*display: none;*/
     height: 100%;
     width: 250px;
     position: fixed;

@@ -13,8 +13,73 @@ body, html {
     text-shadow: 2px 1px #1b9ce5;
 }
 
+#img-data {
+    position: absolute;
+    width: 7%;
+    right: 2%;
+    top: 26%
+}
+
+#img-lg {
+    position: absolute;
+    width: 7%;
+    right: 2%;
+    top: 43%;
+}
+img {
+    width: 100%;
+}
+
+#experience{
+    position: absolute;
+    top: 20%;
+    /*left: 5%;*/
+}
+
+table {
+    font-family: "Consolas", serif;
+    margin-right: 10%;
+    text-align: center;
+    margin-left: 16%;
+    /*border-radius: 10px;*/
+    /*margin-top: 20px;*/
+}
+
+th {
+    font-size: 25px;
+    text-shadow: 1px 1px #1b9ce5;
+    text-align: center;
+    color: black;
+    padding: 10px;
+    background-color: rgba(255,255,255,1);
+}
+
+td {
+    font-size: 20px;
+    text-shadow: 1px 1px #b5b5b3;
+    text-align: left;
+    padding: 10px;
+}
+
+tr:nth-child(even) {
+    background-color: rgba(22, 135, 199, 0.5);
+    color: white;
+}
+
+tr:nth-child(even):hover{
+    background-color: rgba(22, 135, 199, 1);
+}
+
+tr:nth-child(odd) {
+    background-color: rgba(168, 207, 237, 0.5);
+}
+
+tr:nth-child(odd):hover {
+    background-color: rgba(168, 207, 237, 1);
+}
+
 .sidenav {
-    display: none;
+    /*display: none;*/
     height: 100%;
     width: 250px;
     position: fixed;

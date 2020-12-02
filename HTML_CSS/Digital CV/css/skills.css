@@ -13,8 +13,70 @@ body, html {
     text-shadow: 2px 1px #e46f80;
 }
 
+h2{
+    text-align: center;
+    font-family: "Consolas", serif;
+    font-size: 23px;
+    color: #000000;
+    text-shadow: 2px 1px #e46f80;
+}
+
+.skillset{
+    width: 485px;
+    position: absolute;
+    left: 35%;
+    top: 20%;
+    padding: 10px;
+}
+.skills{
+    text-align: left;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: #f3fbff;
+    font-family: "Consolas", serif;
+    font-size: 20px;
+    background-color: #d2d2d0;
+    border-radius: 5px;
+    border: 0.25px solid #ccc;
+    text-shadow: 1px 1px #b5b5b3;
+}
+
+.python{
+    width: 85%;
+    background-color: #ba5b69;
+}
+.cpp{
+    width: 100%;
+    background-color: #ba5b69;
+}
+.java{
+    width: 65%;
+    background-color: #e3b8c3;
+}
+.sql{
+    width: 75%;
+    background-color: #e3b8c3;
+}
+.htmlcss{
+    width: 25%;
+    background-color: #ba5b69;
+}
+.tm{
+    width: 100%;
+    background-color: #ba5b69;
+}
+.tp{
+    width: 70%;
+    background-color: #e3b8c3;
+}
+.ps{
+    width: 80%;
+    background-color: #ba5b69;
+}
+
 .sidenav {
-    display: none;
+    /*display: none;*/
     height: 100%;
     width: 250px;
     position: fixed;

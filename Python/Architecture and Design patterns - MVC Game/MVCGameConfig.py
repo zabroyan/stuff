@@ -1,0 +1,22 @@
+import os
+
+MAX_X = 1015
+MAX_Y = 720
+
+MOVE_STEP = 10
+CANNON_POS_X = 10
+CANNON_POS_Y = MAX_Y / 2
+
+APP_ROOT = os.path.abspath(os.path.join(__file__, '..'))
+
+TIME_TICK_PERIOD = 50
+
+MISSILE_STEP = 15
+ENEMIES_CNT = 1
+DAMAGE = 10
+ENEMY_A_HEALTH = 30
+ENEMY_B_HEALTH = 50
+ENEMY_A_POINTS = 100
+ENEMY_B_POINTS = 200
+
+GRAVITY = 5
